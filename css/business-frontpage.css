@@ -1,0 +1,59 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+    padding-top: 56px;
+    font-family: 'Playfair Display', serif;
+}
+
+.sizePA {
+    font-size: 50px;
+    margin: 15px;
+    color: darkorchid;
+    font-weight: 300;
+}
+
+.sizeLA {
+    font-size: 50px;
+    margin: 10px;
+    color: cornflowerblue;
+    font-style: oblique;
+    font-weight: 300;
+}
+
+.sizeLO {
+    font-size: 50px;
+    margin: 10px;
+    color: darkgreen;
+    font-style: oblique;
+    font-weight: 300;
+}
+
+
+
+.size20 {
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+}
+
+.col-lg-25 {
+    margin: auto;
+
+
+}
+
+
+.bake {
+    font-size: 20px;
+    color: #f2e6ff;
+
+}
+
+.lavenderlogo {
+    font-size: 100px;
+    margin: 5px;
+    color: #ca99ff;
+}
